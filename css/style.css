@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+.main{
+	background-image: url('../html/slider/slider.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+
+	overflow-x: hidden;
+}
+
+ul li{
+	display: inline-block;
+}
